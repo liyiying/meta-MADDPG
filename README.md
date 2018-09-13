@@ -49,7 +49,6 @@ Environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
     **Note 1:** :You need to pay special attention to the file paths in your code and adjust the different execution modes as needed.
 
     **Note 2:** :According to the design needs, our code contains two modes of meta, one of which has a rnn structure, anyway, no.
-
     ```Shell
     python meta_actor.py   #  or python meta_actor_rnn.py
     python meta_critic.py  #  or python meta_critic_rnn.py
