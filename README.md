@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is the code for implementing the meta-MADDPG algorithm presented in the paper: Improving the Scalability of Multi-Robot
-Reinforcement Learning Based on Meta-Learning. It is configured to be run in conjunction with environments from
+This is the code for implementing the meta-MADDPG algorithm presented in the paper: Improving Scalability in Applying
+Reinforcement Learning into Multi-robot Scenarios. It is configured to be run in conjunction with environments from
 the Multi-Agent Particle Environments (MPE).
 
-Paper : [Improving the Scalability of Multi-Robot Reinforcement Learning Based on Meta-Learning].
+Paper : [Improving Scalability in Applying Reinforcement Learning into Multi-robot Scenarios].
 
 Environment : [multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs).
 (Training and testing is based on an instance of the environment named "simple_tag_non_adv_4.py").
